@@ -16,8 +16,8 @@ const BASE_PRODUCTS = [
   {k:'chuleta_nuca', n:'Chuleta de nuca', p:2.90, c:2.15},
   {k:'costilla_chancho', n:'Costilla de chancho', p:3.20, c:2.70},
   {k:'carne_chancho_entera', n:'Carne de chancho entera', p:2.50, c:1.85},
-  {k:'fritada_chancho', n:'Fritada de chancho', p:1.00, c:1.85},
-  {k:'hueso_chancho', n:'Hueso de chancho', p:2.40, c:1.85},
+  {k:'fritada_chancho', n:'Fritada de chancho', p:2.60, c:1.85},
+  {k:'hueso_chancho', n:'Hueso de chancho', p:1.00, c:1.85},
 ];
 
 const ls = {
